@@ -10,6 +10,6 @@ This effect is often used in advertising, where a product is presented in a posi
 
 This repository's primary focus is the final report. Most of the other stuff here contains utility codes + data used to generate the report.
 
-piechart.ipynb was used to generate the questions as well as the available choices.
+`piechart.ipynb` was used to generate the questions as well as the available choices.
 
-dataAnalysis.ipynb was used to generate all the relevant files required for data analysis.
+`dataAnalysis.ipynb` was used to generate all the relevant files required for data analysis.
